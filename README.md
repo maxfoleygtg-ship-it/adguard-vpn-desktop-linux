@@ -1,0 +1,1 @@
+# adguard-vpn-desktop-linux-1.0.0
