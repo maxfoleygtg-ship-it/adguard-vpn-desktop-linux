@@ -1,12 +1,12 @@
 <img width="1280" height="640" alt="Без имени" src="https://github.com/user-attachments/assets/524e9405-44e4-40ac-89e2-dde3d6d9f110" />
-# adguard-vpn-desktop-linux-1.0.0
+
 ## English
 
 You need an AdGuard VPN account and an internet connection.
 
 ## Install
 
-1. Download `install-adguard-vpn-desktop.sh` and `adguard-vpn-desktop-1.0.0.zip` from Releases to your **Downloads** folder.
+1. Download `install-adguard-vpn-desktop.sh` and `adguard-vpn-desktop-1.1.0.zip` from Releases to your **Downloads** folder.
 2. Open **Konsole** (terminal) and run:
    ```
    bash ~/Downloads/install-adguard-vpn-desktop.sh
@@ -34,7 +34,7 @@ There is also a separate plugin for Gaming Mode. The two work together: they sha
 
 ## Установка
 
-1. Скачайте `install-adguard-vpn-desktop.sh` и `adguard-vpn-desktop-1.0.0.zip` из Releases в папку **Загрузки**.
+1. Скачайте `install-adguard-vpn-desktop.sh` и `adguard-vpn-desktop-1.1.0.zip` из Releases в папку **Загрузки**.
 2. Откройте **Konsole** (терминал) и выполните:
    ```
    bash ~/Downloads/install-adguard-vpn-desktop.sh
